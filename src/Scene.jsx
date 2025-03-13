@@ -1,7 +1,7 @@
 import { useThree } from "@react-three/fiber";
 import { useRef, useEffect } from "react";
 import { gsap } from "gsap";
-import { CAMERA_POSITIONS } from "./CameraPosition";
+import { CAMERA_POSITIONS } from "./cameraPosition";
 import { useLoader } from "@react-three/fiber";
 import { FBXLoader } from "three/examples/jsm/loaders/FBXLoader";
 function CameraController() {
