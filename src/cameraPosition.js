@@ -9,4 +9,3 @@ export const CAMERA_POSITIONS = [
     { x: -2100, y: 500, z: 450, rotationX: -1, rotationY: 5, rotationZ: -1 },
     { x: -1500, y: 1000, z: -800, rotationX: -2.5, rotationY: 5.5, rotationZ: -2.5 },
   ];
-  
